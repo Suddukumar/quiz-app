@@ -29,6 +29,36 @@ const quiz = [
         question: "Q. What is the purpose of the this keyword in JavaScript?",
         choices: ["It refers to the current function.", "It refers to the current object.", "It refers to the parent object.", " It is used for comments."],
         answer: "It refers to the current object."
+    },
+    {
+        question: " Q.Which of the following keywords is used to define a variable in Javascript?",
+        choices:["var","let","Both A and B","none of the above"],
+        answer:"Both A and B"
+    },
+    {
+        question:" Q.What keyword is used to check whether a given property is valid or not?",
+        choices:["in","is in","exits","lies"],
+        answer:"in"
+    },
+    {question:" Q.When an operator’s value is NULL, the typeof returned by the unary operator is:",
+    choices:["Boolean","undefined","object","integer"],
+    answer:"object"
+
+    },
+    {
+       question: " Q.Which of the following are closures in Javascript?",
+       choices:["variables","functions","objects","All of the above"],
+       answer:"All of the above"
+    },
+    {
+      question:" Q.Which of the following is not a Javascript framework?",
+      choices:["Node","vue","React","Cassandra"],
+      answer:"Cassandra"
+    },
+    {
+        question:" Q.What keyword is used to declare an asynchronous function in Javascript?",
+        choices:["async","await","setTimeout","None of the above"],
+        answer:"async"
     }
 ];
 
